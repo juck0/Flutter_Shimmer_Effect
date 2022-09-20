@@ -1,16 +1,50 @@
-# zhra
 
-A new Flutter project.
+# Flutter_Shimmer_Effect 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Badges
 
-A few resources to get you started if this is your first Flutter project:
+![Dart License](https://img.shields.io/badge/Dart-2.18.1-9cf)
+![Flutter License](https://img.shields.io/badge/Flutter-3.3.2-blue)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Jrh9cZXKQjn1abBJWnwPH0A61Q9Tjl5d8g&usqp=CAU)
+
+
+## Authors
+
+- [@Aymn S. Al-Arrak](https://github.com/juck0)
+
+
+## pub.dev packages
+
+#### packages
+
+
+| package | version     | Description                |
+| :-------- | :------- | :------------------------- |
+| `shimmer` | `^2.0.0` | **Provides** an easy way to add shimmer effect in Flutter project.|
+
+
+## Installation
+
+Try my code :
+
+```bash
+  1 - Download project
+```
+```bash
+  2 - Unzip project
+```
+```bash
+  3 - Open project in Android Studio project
+```
+
+## License
+
+[Dart](https://dart.dev/)
+[Flutter](https://flutter.dev/)
+
+
+
+
